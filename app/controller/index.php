@@ -57,14 +57,14 @@ class index extends Controller
                                       <label for=\"account\" class=\"am-u-sm-2 am-form-label\">邮箱</label>
                                         <div class=\"am-u-sm-10\">
                                             <input type=\"text\" id=\"account\" class=\"am-form-field am-round\"
-                                                 placeholder=\"请仔细输入正确邮箱，接收卡密使用\"   value=\"\">
+                                                 placeholder=\"正确邮箱，接收卡密\"   value=\"\">
                                         </div>
                      </div>
                      <div class=\"am-form-group ajaxdiv\">
                                         <label for=\"chapwd\" class=\"am-u-sm-2 am-form-label\">查询密码</label>
                                         <div class=\"am-u-sm-10\">
                                             <input type=\"text\" id=\"chapwd\" class=\"am-form-field am-round\"
-                                                placeholder=\"请仔细查询密码，作为查询重要依据\"    value=\"\">
+                                                placeholder=\"查询密码，查询卡密\"    value=\"\">
                                         </div>
                                     </div>";
 
